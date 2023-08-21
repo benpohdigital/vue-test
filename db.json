@@ -58,13 +58,7 @@
 				}
 			],
 			"date": "Thu 7th Sep",
-			"time": "8.15pm",
-			"thumbnail": {
-				"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Pierce-Starre-456x290.png",
-				"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Pierce-Starre-912x580.png",
-				"alt": "",
-				"size": [456, 290]
-			}
+			"time": "8.15pm"
 		},
 		{
 			"id": 5700284,
@@ -124,13 +118,7 @@
 				}
 			],
 			"date": "Fri 8th Sep",
-			"time": "7.30pm",
-			"thumbnail": {
-				"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-456x290.jpeg",
-				"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-912x580.jpeg",
-				"alt": "",
-				"size": [456, 290]
-			}
+			"time": "7.30pm"
 		},
 		{
 			"id": 5700816,
@@ -157,13 +145,7 @@
 				}
 			],
 			"date": "Thu 28th Sep",
-			"time": "7pm",
-			"thumbnail": {
-				"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/Promo-Image-1-Character-Image-landscape-456x290.jpg",
-				"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/Promo-Image-1-Character-Image-landscape-912x580.jpg",
-				"alt": "",
-				"size": [456, 290]
-			}
+			"time": "7pm"
 		},
 		{
 			"id": 5701245,
@@ -190,13 +172,7 @@
 				}
 			],
 			"date": "2nd – 15th October 2023",
-			"time": "",
-			"thumbnail": {
-				"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/08/IMG-1263-456x290.jpg",
-				"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/08/IMG-1263-912x580.jpg",
-				"alt": "A person standing in a red small room with an uneven floor and a light globe sphere next to them.",
-				"size": [456, 290]
-			}
+			"time": ""
 		}
 	]
 }
