@@ -1,591 +1,202 @@
 {
-"items": [
-{
-"id": 5700521,
-"url": "https://lincolnartscentre.co.uk/event/an-artists-perspective-arts-facilitation-and-accessibility-with-laura-guthrie/",
-"title": "An Artist&#8217;s Perspective: Arts Facilitation and Accessibility with Laura Guthrie",
-"excerpt": "An in depth look at accessibility in the arts with advice on how to support the access requirements of others and how to articulate ones own.",
-"permalink": "https://lincolnartscentre.co.uk/event/an-artists-perspective-arts-facilitation-and-accessibility-with-laura-guthrie/",
-"dates": [
-{
-"date": "Thu 7th Sep",
-"time": "7pm",
-"iso": {
-"id": "705300",
-"object_id": "5700521",
-"start_date": "2023-09-07 19:00:00",
-"hide_start_date": false,
-"end_date": "2023-09-07 19:00:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "380287",
-"spektrix_on_sale": "1",
-"spektrix_sold_out": "0"
-}
-}
-],
-"date": "Thu 7th Sep",
-"time": "7pm",
-"taxonomy": {
-"event_type": "<a  class=\"tax-event_type\" href=\"/whats-on/?event_type=workshops-talks\" title=\"Workshops &amp; Talks\" rel=\"tag\">Workshops &amp; Talks</a>",
-"location": "<a  class=\"tax-location\" href=\"/whats-on/?location=theatre\" title=\"Theatre\" rel=\"tag\">Theatre</a>",
-"theme": "<a  class=\"tax-theme\" href=\"/whats-on/?theme=free-events\" title=\"Free events\" rel=\"tag\">Free events</a>",
-"accessibility": null
-},
-"thumbnail": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Laura-Guthrie-e1683901092798-456x290.jpg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Laura-Guthrie-e1683901092798-912x580.jpg",
-"alt": "",
-"size": [
-456,
-290
-]
-},
-"thumbnail-lg": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Laura-Guthrie-e1683901092798-692x290.jpg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Laura-Guthrie-e1683901092798-1384x580.jpg",
-"alt": "",
-"size": [
-692,
-290
-]
-}
-},
-{
-"id": 5700522,
-"url": "https://lincolnartscentre.co.uk/event/an-artists-perspective-film-screening-of-reet-good-and-qa-with-pierce-starre/",
-"title": "An Artist&#8217;s Perspective: Film Screening of ‘Reet Good’ and Q&#038;A with Pierce Starre",
-"excerpt": "'Reet Good' is a documentary film following the journey of a new creative Live Art residency solely for artists that identify as D/deaf, disabled or nerodiverse. The film documents the first ‘Reet Good’ project, an electric, dynamic and trail-blazing event of Live Performance Art. 'Reet Good' seeks to break down barriers, challenge preconceptions and boldly centre and illuminate the work of Deaf, Disabled and Nuerodivergent Artists.\r\nAfter the screening Pierce Starre will share their process and learning as a producer and creator of a project which places access at the forefront of every element.",
-"permalink": "https://lincolnartscentre.co.uk/event/an-artists-perspective-film-screening-of-reet-good-and-qa-with-pierce-starre/",
-"dates": [
-{
-"date": "Thu 7th Sep",
-"time": "8.15pm",
-"iso": {
-"id": "705301",
-"object_id": "5700522",
-"start_date": "2023-09-07 20:15:00",
-"hide_start_date": false,
-"end_date": "2023-09-07 20:15:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "380487",
-"spektrix_on_sale": "1",
-"spektrix_sold_out": "0"
-}
-}
-],
-"date": "Thu 7th Sep",
-"time": "8.15pm",
-"taxonomy": {
-"event_type": "<a  class=\"tax-event_type\" href=\"/whats-on/?event_type=film\" title=\"Film\" rel=\"tag\">Film</a>",
-"location": "<a  class=\"tax-location\" href=\"/whats-on/?location=theatre\" title=\"Theatre\" rel=\"tag\">Theatre</a>",
-"theme": "<a  class=\"tax-theme\" href=\"/whats-on/?theme=free-events\" title=\"Free events\" rel=\"tag\">Free events</a>",
-"accessibility": null
-},
-"thumbnail": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Pierce-Starre-456x290.png",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Pierce-Starre-912x580.png",
-"alt": "",
-"size": [
-456,
-290
-]
-},
-"thumbnail-lg": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Pierce-Starre-692x290.png",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Pierce-Starre-1384x580.png",
-"alt": "",
-"size": [
-692,
-290
-]
-}
-},
-{
-"id": 5700284,
-"url": "https://lincolnartscentre.co.uk/event/unfckingleashed/",
-"title": "UNF*CKINGLEASHED",
-"excerpt": "Hey, are you ready for a show that's not your typical sob story? From rock bottom to rock solid? Then this one's for you!",
-"permalink": "https://lincolnartscentre.co.uk/event/unfckingleashed/",
-"dates": [
-{
-"date": "Fri 8th Sep",
-"time": "7.30pm",
-"iso": {
-"id": "705348",
-"object_id": "5700284",
-"start_date": "2023-09-08 19:30:00",
-"hide_start_date": false,
-"end_date": "2023-09-08 19:30:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "376687",
-"spektrix_on_sale": "1",
-"spektrix_sold_out": "0"
-}
-}
-],
-"date": "Fri 8th Sep",
-"time": "7.30pm",
-"taxonomy": {
-"event_type": "<a  class=\"tax-event_type\" href=\"/whats-on/?event_type=other-artforms\" title=\"Other Artforms\" rel=\"tag\">Other Artforms</a>",
-"location": "<a  class=\"tax-location\" href=\"/whats-on/?location=theatre\" title=\"Theatre\" rel=\"tag\">Theatre</a>",
-"theme": null,
-"accessibility": null
-},
-"thumbnail": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-456x290.jpeg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-912x580.jpeg",
-"alt": "",
-"size": [
-456,
-290
-]
-},
-"thumbnail-lg": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-692x290.jpeg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-1104x580.jpeg",
-"alt": "",
-"size": [
-692,
-290
-]
-}
-},
-{
-"id": 5701263,
-"url": "https://lincolnartscentre.co.uk/event/unfckingleashed-online/",
-"title": "UNF*CKINGLEASHED | Online",
-"excerpt": "Hey, are you ready for a show that's not your typical sob story? From rock bottom to rock solid? Then this one's for you!",
-"permalink": "https://lincolnartscentre.co.uk/event/unfckingleashed-online/",
-"dates": [
-{
-"date": "Fri 8th Sep",
-"time": "7.30pm",
-"iso": {
-"id": "705349",
-"object_id": "5701263",
-"start_date": "2023-09-08 19:30:00",
-"hide_start_date": false,
-"end_date": "2023-09-08 19:30:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "404887",
-"spektrix_on_sale": "1",
-"spektrix_sold_out": "0"
-}
-}
-],
-"date": "Fri 8th Sep",
-"time": "7.30pm",
-"taxonomy": {
-"event_type": "<a  class=\"tax-event_type\" href=\"/whats-on/?event_type=other-artforms\" title=\"Other Artforms\" rel=\"tag\">Other Artforms</a>",
-"location": "<a  class=\"tax-location\" href=\"/whats-on/?location=theatre\" title=\"Theatre\" rel=\"tag\">Theatre</a>",
-"theme": null,
-"accessibility": null
-},
-"thumbnail": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-456x290.jpeg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-912x580.jpeg",
-"alt": "",
-"size": [
-456,
-290
-]
-},
-"thumbnail-lg": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-692x290.jpeg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-1104x580.jpeg",
-"alt": "",
-"size": [
-692,
-290
-]
-}
-},
-{
-"id": 5700816,
-"url": "https://lincolnartscentre.co.uk/event/i-heart-michael-ball/",
-"title": "I Heart Michael Ball",
-"excerpt": "It’s the 10th bi-annual meeting of the Michael Ball Appreciation Society and Alex, their founder, has a special surprise to mark the occasion. ",
-"permalink": "https://lincolnartscentre.co.uk/event/i-heart-michael-ball/",
-"dates": [
-{
-"date": "Thu 28th Sep",
-"time": "7pm",
-"iso": {
-"id": "705314",
-"object_id": "5700816",
-"start_date": "2023-09-28 19:00:00",
-"hide_start_date": false,
-"end_date": "2023-09-28 19:00:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "395087",
-"spektrix_on_sale": "1",
-"spektrix_sold_out": "0"
-}
-}
-],
-"date": "Thu 28th Sep",
-"time": "7pm",
-"taxonomy": {
-"event_type": "<a  class=\"tax-event_type\" href=\"/whats-on/?event_type=drama\" title=\"Drama\" rel=\"tag\">Drama</a>",
-"location": "<a  class=\"tax-location\" href=\"/whats-on/?location=studio-1\" title=\"Studio 1\" rel=\"tag\">Studio 1</a>",
-"theme": "<a  class=\"tax-theme\" href=\"/whats-on/?theme=just-what-the-doctor-ordered\" title=\"Just What The Doctor Ordered\" rel=\"tag\">Just What The Doctor Ordered</a>",
-"accessibility": null
-},
-"thumbnail": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/Promo-Image-1-Character-Image-landscape-456x290.jpg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/Promo-Image-1-Character-Image-landscape-912x580.jpg",
-"alt": "",
-"size": [
-456,
-290
-]
-},
-"thumbnail-lg": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/Promo-Image-1-Character-Image-landscape-692x290.jpg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/Promo-Image-1-Character-Image-landscape-1384x580.jpg",
-"alt": "",
-"size": [
-692,
-290
-]
-}
-},
-{
-"id": 5701245,
-"url": "https://lincolnartscentre.co.uk/event/space-time-matter/",
-"title": "Space Time Matter",
-"excerpt": "The physical universe is temporal - its physical characteristics are defined by time, space, mass and energy. Space Time Matter is an exhibition about everything that exists.",
-"permalink": "https://lincolnartscentre.co.uk/event/space-time-matter/",
-"dates": [
-{
-"date": "Mon 2nd Oct - Sun 15th Oct",
-"time": "10am",
-"iso": {
-"id": "679683",
-"object_id": "5701245",
-"start_date": "2023-10-02 10:00:00",
-"hide_start_date": false,
-"end_date": "2023-10-15 16:00:00",
-"hide_end_date": false,
-"all_day": "1",
-"spektrix_id": "0",
-"spektrix_on_sale": "0",
-"spektrix_sold_out": "0"
-}
-}
-],
-"date": "2nd – 15th October 2023",
-"time": "",
-"taxonomy": {
-"event_type": "<a  class=\"tax-event_type\" href=\"/whats-on/?event_type=visual-arts\" title=\"Visual Arts\" rel=\"tag\">Visual Arts</a>",
-"location": "<a  class=\"tax-location\" href=\"/whats-on/?location=project-space-plus\" title=\"Project Space Plus\" rel=\"tag\">Project Space Plus</a>",
-"theme": null,
-"accessibility": null
-},
-"thumbnail": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/08/IMG-1263-456x290.jpg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/08/IMG-1263-912x580.jpg",
-"alt": "A person standing in a red small room with an uneven floor and a light globe sphere next to them.",
-"size": [
-456,
-290
-]
-},
-"thumbnail-lg": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/08/IMG-1263-692x290.jpg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/08/IMG-1263-1384x580.jpg",
-"alt": "A person standing in a red small room with an uneven floor and a light globe sphere next to them.",
-"size": [
-692,
-290
-]
-}
-},
-{
-"id": 5700968,
-"url": "https://lincolnartscentre.co.uk/event/beatles-complete/",
-"title": "Beatles Complete",
-"excerpt": "DIRECT FROM THE WORLD FAMOUS CAVERN CLUB, LIVERPOOL\r\nRSPCA Lincolnshire Mid and Lincoln are delighted to welcome Beatles Complete to present a night of Beatlemania packed with massive hits from the most influential band of all time.",
-"permalink": "https://lincolnartscentre.co.uk/event/beatles-complete/",
-"dates": [
-{
-"date": "Fri 6th Oct",
-"time": "7.30pm",
-"iso": {
-"id": "705303",
-"object_id": "5700968",
-"start_date": "2023-10-06 19:30:00",
-"hide_start_date": false,
-"end_date": "2023-10-06 19:30:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "395887",
-"spektrix_on_sale": "1",
-"spektrix_sold_out": "0"
-}
-}
-],
-"date": "Fri 6th Oct",
-"time": "7.30pm",
-"taxonomy": {
-"event_type": "<a  class=\"tax-event_type\" href=\"/whats-on/?event_type=music\" title=\"Music\" rel=\"tag\">Music</a>",
-"location": "<a  class=\"tax-location\" href=\"/whats-on/?location=theatre\" title=\"Theatre\" rel=\"tag\">Theatre</a>",
-"theme": null,
-"accessibility": null
-},
-"thumbnail": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/CD82EE1C-F2F6-4800-B798-9D37BA16E139-456x290.jpeg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/CD82EE1C-F2F6-4800-B798-9D37BA16E139-912x580.jpeg",
-"alt": "",
-"size": [
-456,
-290
-]
-},
-"thumbnail-lg": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/CD82EE1C-F2F6-4800-B798-9D37BA16E139-692x290.jpeg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/CD82EE1C-F2F6-4800-B798-9D37BA16E139-1384x580.jpeg",
-"alt": "",
-"size": [
-692,
-290
-]
-}
-},
-{
-"id": 5699595,
-"url": "https://lincolnartscentre.co.uk/event/demo/",
-"title": "Demo",
-"excerpt": "Be part of developing the next big thing!",
-"permalink": "https://lincolnartscentre.co.uk/event/demo/",
-"dates": [
-{
-"date": "Fri 21st Apr",
-"time": "8pm",
-"iso": {
-"id": "705307",
-"object_id": "5699595",
-"start_date": "2023-04-21 20:00:00",
-"hide_start_date": false,
-"end_date": "2023-04-21 20:00:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "358487",
-"spektrix_on_sale": "0",
-"spektrix_sold_out": "0"
-}
-},
-{
-"date": "Fri 20th Oct",
-"time": "7pm",
-"iso": {
-"id": "705308",
-"object_id": "5699595",
-"start_date": "2023-10-20 19:00:00",
-"hide_start_date": false,
-"end_date": "2023-10-20 19:00:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "403087",
-"spektrix_on_sale": "1",
-"spektrix_sold_out": "0"
-}
-},
-{
-"date": "Tue 23rd Jan 2024",
-"time": "7pm",
-"iso": {
-"id": "705309",
-"object_id": "5699595",
-"start_date": "2024-01-23 19:00:00",
-"hide_start_date": false,
-"end_date": "2024-01-23 19:00:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "403287",
-"spektrix_on_sale": "1",
-"spektrix_sold_out": "0"
-}
-},
-{
-"date": "Thu 21st Mar 2024",
-"time": "7pm",
-"iso": {
-"id": "705310",
-"object_id": "5699595",
-"start_date": "2024-03-21 19:00:00",
-"hide_start_date": false,
-"end_date": "2024-03-21 19:00:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "403487",
-"spektrix_on_sale": "1",
-"spektrix_sold_out": "0"
-}
-}
-],
-"date": "Fri 21st Apr - Thu 21st Mar 2024",
-"time": null,
-"taxonomy": {
-"event_type": "<a  class=\"tax-event_type\" href=\"/whats-on/?event_type=theatre\" title=\"Theatre\" rel=\"tag\">Theatre</a>",
-"location": "<a  class=\"tax-location\" href=\"/whats-on/?location=studio-2\" title=\"Studio 2\" rel=\"tag\">Studio 2</a>",
-"theme": "<a  class=\"tax-theme\" href=\"/whats-on/?theme=just-what-the-doctor-ordered\" title=\"Just What The Doctor Ordered\" rel=\"tag\">Just What The Doctor Ordered</a>",
-"accessibility": null
-},
-"thumbnail": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/03/52659816692_6019a5bbf1_o-456x290.jpg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/03/52659816692_6019a5bbf1_o-912x580.jpg",
-"alt": "",
-"size": [
-456,
-290
-]
-},
-"thumbnail-lg": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/03/52659816692_6019a5bbf1_o-692x290.jpg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/03/52659816692_6019a5bbf1_o-1384x580.jpg",
-"alt": "",
-"size": [
-692,
-290
-]
-}
-},
-{
-"id": 5701106,
-"url": "https://lincolnartscentre.co.uk/event/love-is-always-the-answer/",
-"title": "Love Is Always The Answer",
-"excerpt": "The Reach Performers Company are a performing arts and dance school based in Lincoln who will be performing an original musical, Love is Always the Answer. ",
-"permalink": "https://lincolnartscentre.co.uk/event/love-is-always-the-answer/",
-"dates": [
-{
-"date": "Sun 22nd Oct",
-"time": "1.30pm",
-"iso": {
-"id": "705315",
-"object_id": "5701106",
-"start_date": "2023-10-22 13:30:00",
-"hide_start_date": false,
-"end_date": "2023-10-22 13:30:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "396887",
-"spektrix_on_sale": "1",
-"spektrix_sold_out": "0"
-}
-},
-{
-"date": "Sun 22nd Oct",
-"time": "6pm",
-"iso": {
-"id": "705316",
-"object_id": "5701106",
-"start_date": "2023-10-22 18:00:00",
-"hide_start_date": false,
-"end_date": "2023-10-22 18:00:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "397087",
-"spektrix_on_sale": "1",
-"spektrix_sold_out": "0"
-}
-}
-],
-"date": "Sun 22nd Oct",
-"time": null,
-"taxonomy": {
-"event_type": "<a  class=\"tax-event_type\" href=\"/whats-on/?event_type=musical-theatre\" title=\"Musical Theatre\" rel=\"tag\">Musical Theatre</a>",
-"location": "<a  class=\"tax-location\" href=\"/whats-on/?location=theatre\" title=\"Theatre\" rel=\"tag\">Theatre</a>",
-"theme": null,
-"accessibility": null
-},
-"thumbnail": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/LOVE-IS-ALWAYS-THE-ANSWER-456x290.jpg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/LOVE-IS-ALWAYS-THE-ANSWER-912x580.jpg",
-"alt": "",
-"size": [
-456,
-290
-]
-},
-"thumbnail-lg": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/LOVE-IS-ALWAYS-THE-ANSWER-692x290.jpg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/LOVE-IS-ALWAYS-THE-ANSWER-1384x580.jpg",
-"alt": "",
-"size": [
-692,
-290
-]
-}
-},
-{
-"id": 5701016,
-"url": "https://lincolnartscentre.co.uk/event/stage-combat/",
-"title": "Stage Combat",
-"excerpt": "Looking to do some Stage Combat? Stage Combat Course at Lincoln Arts Centre with the examination Actors Combat Theatrical Training (ACTT).",
-"permalink": "https://lincolnartscentre.co.uk/event/stage-combat/",
-"dates": [
-{
-"date": "Fri 27th Oct",
-"time": "6pm",
-"iso": {
-"id": "705320",
-"object_id": "5701016",
-"start_date": "2023-10-27 18:00:00",
-"hide_start_date": false,
-"end_date": "2023-10-27 18:00:00",
-"hide_end_date": false,
-"all_day": "0",
-"spektrix_id": "396487",
-"spektrix_on_sale": "1",
-"spektrix_sold_out": "0"
-}
-}
-],
-"date": "Fri 27th Oct",
-"time": "6pm",
-"taxonomy": {
-"event_type": "<a  class=\"tax-event_type\" href=\"/whats-on/?event_type=workshops-talks\" title=\"Workshops &amp; Talks\" rel=\"tag\">Workshops &amp; Talks</a>",
-"location": "<a  class=\"tax-location\" href=\"/whats-on/?location=studio-2\" title=\"Studio 2\" rel=\"tag\">Studio 2</a>",
-"theme": null,
-"accessibility": null
-},
-"thumbnail": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/Combat-27-456x290.jpg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/Combat-27-912x580.jpg",
-"alt": "",
-"size": [
-456,
-290
-]
-},
-"thumbnail-lg": {
-"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/Combat-27-692x290.jpg",
-"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/Combat-27-926x580.jpg",
-"alt": "",
-"size": [
-692,
-290
-]
-}
-}
-],
-"found_posts": 20,
-"max_num_pages": 2,
-"query": {
-"activity_date_range": {
-"start": "2023-08-21 00:00:00",
-"end": "9999-12-31"
-},
-"activity_date_order": "ASC",
-"activity_date_orderby": "start_date",
-"post_type": "event",
-"posts_per_page": 10,
-"paged": 1
-}
+	"items": [
+		{
+			"id": 5700521,
+			"url": "https://lincolnartscentre.co.uk/event/an-artists-perspective-arts-facilitation-and-accessibility-with-laura-guthrie/",
+			"title": "An Artist&#8217;s Perspective: Arts Facilitation and Accessibility with Laura Guthrie",
+			"excerpt": "An in depth look at accessibility in the arts with advice on how to support the access requirements of others and how to articulate ones own.",
+			"permalink": "https://lincolnartscentre.co.uk/event/an-artists-perspective-arts-facilitation-and-accessibility-with-laura-guthrie/",
+			"dates": [
+				{
+					"date": "Thu 7th Sep",
+					"time": "7pm",
+					"iso": {
+						"id": "705300",
+						"object_id": "5700521",
+						"start_date": "2023-09-07 19:00:00",
+						"hide_start_date": false,
+						"end_date": "2023-09-07 19:00:00",
+						"hide_end_date": false,
+						"all_day": "0",
+						"spektrix_id": "380287",
+						"spektrix_on_sale": "1",
+						"spektrix_sold_out": "0"
+					}
+				}
+			],
+			"date": "Thu 7th Sep",
+			"time": "7pm",
+			"thumbnail": {
+				"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Laura-Guthrie-e1683901092798-456x290.jpg",
+				"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Laura-Guthrie-e1683901092798-912x580.jpg",
+				"alt": "",
+				"size": [456, 290]
+			}
+		},
+		{
+			"id": 5700522,
+			"url": "https://lincolnartscentre.co.uk/event/an-artists-perspective-film-screening-of-reet-good-and-qa-with-pierce-starre/",
+			"title": "An Artist&#8217;s Perspective: Film Screening of ‘Reet Good’ and Q&#038;A with Pierce Starre",
+			"excerpt": "'Reet Good' is a documentary film following the journey of a new creative Live Art residency solely for artists that identify as D/deaf, disabled or nerodiverse. The film documents the first ‘Reet Good’ project, an electric, dynamic and trail-blazing event of Live Performance Art. 'Reet Good' seeks to break down barriers, challenge preconceptions and boldly centre and illuminate the work of Deaf, Disabled and Nuerodivergent Artists.\r\nAfter the screening Pierce Starre will share their process and learning as a producer and creator of a project which places access at the forefront of every element.",
+			"permalink": "https://lincolnartscentre.co.uk/event/an-artists-perspective-film-screening-of-reet-good-and-qa-with-pierce-starre/",
+			"dates": [
+				{
+					"date": "Thu 7th Sep",
+					"time": "8.15pm",
+					"iso": {
+						"id": "705301",
+						"object_id": "5700522",
+						"start_date": "2023-09-07 20:15:00",
+						"hide_start_date": false,
+						"end_date": "2023-09-07 20:15:00",
+						"hide_end_date": false,
+						"all_day": "0",
+						"spektrix_id": "380487",
+						"spektrix_on_sale": "1",
+						"spektrix_sold_out": "0"
+					}
+				}
+			],
+			"date": "Thu 7th Sep",
+			"time": "8.15pm",
+			"thumbnail": {
+				"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Pierce-Starre-456x290.png",
+				"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/05/Pierce-Starre-912x580.png",
+				"alt": "",
+				"size": [456, 290]
+			}
+		},
+		{
+			"id": 5700284,
+			"url": "https://lincolnartscentre.co.uk/event/unfckingleashed/",
+			"title": "UNF*CKINGLEASHED",
+			"excerpt": "Hey, are you ready for a show that's not your typical sob story? From rock bottom to rock solid? Then this one's for you!",
+			"permalink": "https://lincolnartscentre.co.uk/event/unfckingleashed/",
+			"dates": [
+				{
+					"date": "Fri 8th Sep",
+					"time": "7.30pm",
+					"iso": {
+						"id": "705348",
+						"object_id": "5700284",
+						"start_date": "2023-09-08 19:30:00",
+						"hide_start_date": false,
+						"end_date": "2023-09-08 19:30:00",
+						"hide_end_date": false,
+						"all_day": "0",
+						"spektrix_id": "376687",
+						"spektrix_on_sale": "1",
+						"spektrix_sold_out": "0"
+					}
+				}
+			],
+			"date": "Fri 8th Sep",
+			"time": "7.30pm",
+			"thumbnail": {
+				"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-456x290.jpeg",
+				"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-912x580.jpeg",
+				"alt": "",
+				"size": [456, 290]
+			}
+		},
+		{
+			"id": 5701263,
+			"url": "https://lincolnartscentre.co.uk/event/unfckingleashed-online/",
+			"title": "UNF*CKINGLEASHED | Online",
+			"excerpt": "Hey, are you ready for a show that's not your typical sob story? From rock bottom to rock solid? Then this one's for you!",
+			"permalink": "https://lincolnartscentre.co.uk/event/unfckingleashed-online/",
+			"dates": [
+				{
+					"date": "Fri 8th Sep",
+					"time": "7.30pm",
+					"iso": {
+						"id": "705349",
+						"object_id": "5701263",
+						"start_date": "2023-09-08 19:30:00",
+						"hide_start_date": false,
+						"end_date": "2023-09-08 19:30:00",
+						"hide_end_date": false,
+						"all_day": "0",
+						"spektrix_id": "404887",
+						"spektrix_on_sale": "1",
+						"spektrix_sold_out": "0"
+					}
+				}
+			],
+			"date": "Fri 8th Sep",
+			"time": "7.30pm",
+			"thumbnail": {
+				"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-456x290.jpeg",
+				"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/04/image0-2-912x580.jpeg",
+				"alt": "",
+				"size": [456, 290]
+			}
+		},
+		{
+			"id": 5700816,
+			"url": "https://lincolnartscentre.co.uk/event/i-heart-michael-ball/",
+			"title": "I Heart Michael Ball",
+			"excerpt": "It’s the 10th bi-annual meeting of the Michael Ball Appreciation Society and Alex, their founder, has a special surprise to mark the occasion. ",
+			"permalink": "https://lincolnartscentre.co.uk/event/i-heart-michael-ball/",
+			"dates": [
+				{
+					"date": "Thu 28th Sep",
+					"time": "7pm",
+					"iso": {
+						"id": "705314",
+						"object_id": "5700816",
+						"start_date": "2023-09-28 19:00:00",
+						"hide_start_date": false,
+						"end_date": "2023-09-28 19:00:00",
+						"hide_end_date": false,
+						"all_day": "0",
+						"spektrix_id": "395087",
+						"spektrix_on_sale": "1",
+						"spektrix_sold_out": "0"
+					}
+				}
+			],
+			"date": "Thu 28th Sep",
+			"time": "7pm",
+			"thumbnail": {
+				"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/Promo-Image-1-Character-Image-landscape-456x290.jpg",
+				"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/07/Promo-Image-1-Character-Image-landscape-912x580.jpg",
+				"alt": "",
+				"size": [456, 290]
+			}
+		},
+		{
+			"id": 5701245,
+			"url": "https://lincolnartscentre.co.uk/event/space-time-matter/",
+			"title": "Space Time Matter",
+			"excerpt": "The physical universe is temporal - its physical characteristics are defined by time, space, mass and energy. Space Time Matter is an exhibition about everything that exists.",
+			"permalink": "https://lincolnartscentre.co.uk/event/space-time-matter/",
+			"dates": [
+				{
+					"date": "Mon 2nd Oct - Sun 15th Oct",
+					"time": "10am",
+					"iso": {
+						"id": "679683",
+						"object_id": "5701245",
+						"start_date": "2023-10-02 10:00:00",
+						"hide_start_date": false,
+						"end_date": "2023-10-15 16:00:00",
+						"hide_end_date": false,
+						"all_day": "1",
+						"spektrix_id": "0",
+						"spektrix_on_sale": "0",
+						"spektrix_sold_out": "0"
+					}
+				}
+			],
+			"date": "2nd – 15th October 2023",
+			"time": "",
+			"thumbnail": {
+				"1x": "https://lincolnartscentre.co.uk/app/uploads/2023/08/IMG-1263-456x290.jpg",
+				"2x": "https://lincolnartscentre.co.uk/app/uploads/2023/08/IMG-1263-912x580.jpg",
+				"alt": "A person standing in a red small room with an uneven floor and a light globe sphere next to them.",
+				"size": [456, 290]
+			}
+		}
+	]
 }
